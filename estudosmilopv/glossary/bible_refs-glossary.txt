@@ -1,0 +1,64 @@
+﻿Genesis	Gênesis
+Exodus	Êxodo
+Leviticus	Levítico
+Numbers	Números
+Deuteronomy	Deuteronômio
+Joshua	Josué
+Judges	Juízes
+Ruth	Rute
+1 Samuel	1Samuel
+2 Samuel	2Samuel
+1 Kings	1Reis
+2 Kings	2Reis
+1 Chronicles	1Crônicas
+2 Chronicles	2Crônicas
+Ezra	Esdras
+Nehemiah	Neemias
+Esther	Ester
+Job	Jó
+Psalms	Salmos
+Proverbs	Provérbios
+Ecclesiastes	Eclesiastes
+Song of Songs	Cantares
+Isaiah	Isaías
+Jeremiah	Jeremias
+Lamentations	Lamentações
+Ezekiel	Ezequiel
+Hosea	Oseias
+Amos	Amós
+Obadiah	Obadias
+Jonah	Jonas
+Micah	Miqueias
+Nahum	Naum
+Habakkuk	Habacuque
+Zephaniah	Sofonias
+Haggai	Ageu
+Zechariah	Zacarias
+Malachi	Malaquias
+Matthew	Mateus
+Mark	Marcos
+Luke	Lucas
+John	João
+Acts	Atos
+Romans	Romanos
+1 Corinthians	1Coríntios
+2 Corinthians	2Coríntios
+Galatians	Gálatas
+Ephesians	Efésios
+Philippians	Filipenses
+Colossians	Colossenses
+1 Thessalonians	1Tessalonicenses
+2 Thessalonians	2Tessalonicenses
+1 Timothy	1Timóteo
+2 Timothy	2Timóteo
+Titus	Tito
+Philemon	Filemom
+Hebrews	Hebreus
+James	Tiago
+1 Peter	1Pedro
+2 Peter	2Pedro
+1 John	1João
+2 John	2João
+3 John 3João
+Jude	Judas
+Revelation	Apocalipse

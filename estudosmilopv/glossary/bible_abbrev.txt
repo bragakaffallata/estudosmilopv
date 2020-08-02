@@ -1,0 +1,305 @@
+Gen.	Gn
+Ge.	Gn
+Gn.	Gn
+Ex.	Êx
+Exod.	Êx
+Exo.	Êx
+Lev.	Lv
+Le.	Lv
+Lv.	Lv
+Num.	Nm
+Nu.	Nm
+Nm.	Nm
+Nb.	Nm
+Deut.	Dt
+De.	Dt
+Dt.	Dt
+Josh.	Js
+Jos.	Js
+Jsh.	Js
+Judg.	Jz
+Jdg.	Jz
+Jg.	Jz
+Jdgs.	Jz
+Rth.	Rt
+Ru.	Rt
+1 Sam.	1Sm
+1 Sm.	1Sm
+1 Sa.	1Sm
+1 S.	1Sm
+I Sam.	1Sm
+I Sa.	1Sm
+1Sam.	1Sm
+1Sa.	1Sm
+1S.	1Sm
+1st Sam.	1Sm
+First Sam.	1Sm
+2 Sam.	2Sm
+2 Sm.	2Sm
+2 Sa.	2Sm
+2 S.	2Sm
+II Sam.		2Sm
+II Sa.	2Sm
+2Sam.	2Sm
+2Sa.	2Sm
+2S.	2Sm
+2nd Sam.	2Sm
+Second Sam.	2Sm
+1 Kgs	1Rs
+1 Ki	1Rs
+1Kgs	1Rs
+1Kin	1Rs
+1Ki	1Rs
+1K	1Rs
+I Kgs	1Rs
+I Ki	1Rs
+1st Kgs	1Rs
+First Kgs	1Rs
+2 Kgs.	2Rs
+2 Ki.	2Rs
+2Kgs.	2Rs
+2Kin.	2Rs
+2Ki.	2Rs
+2K.	2Rs
+II Kgs.	2Rs
+II Ki.	2Rs
+2nd Kgs.	2Rs
+Second Kgs.	2Rs
+1 Chron.	1Cr
+1 Chr.	1Cr
+1 Ch.	1Cr
+1Chron.	1Cr
+1Chr.	1Cr
+1Ch.	1Cr
+I Chron.	1Cr
+I Chr.	1Cr
+I Ch.	1Cr
+1st Chron.	1Cr
+First Chron.	1Cr
+2 Chron.	2Cr
+2 Chr.	2Cr
+2 Ch.	2Cr
+2Chron.	2Cr
+2Chr.	2Cr
+2Ch.	2Cr
+II Chron.	2Cr
+II Chr.	2Cr
+II Ch.	2Cr
+2nd Chron.	2Cr
+Second Chron.	2Cr
+Ezr.	Ed
+Ez.	Ed
+Neh.	Ne
+Ne.	Ne
+Est.	Et
+Esth.	Et
+Es.	Et
+Job	Jó
+Jb.	Jó
+Ps.	Sl
+Psalm	Sl
+Pslm.	Sl
+Psa.	Sl
+Psm.	Sl
+Pss.	Sl
+Prov	Pv
+Pro.	Pv
+Prv.	Pv
+Pr.	Pv
+Eccles.	Ec
+Eccle.	Ec
+Ecc.	Ec
+Ec.	Ec
+Qoh.	Ec
+Song	Ct
+SOS.	Ct
+So.	Ct
+Canticles	Ct
+Cant.	Ct
+Isaiah	Is
+Isa.	Is
+Is.	Is
+Jer.	Jr
+Je.	Jr
+Jr.	Jr
+Lam.	Lm
+La.	Lm
+Ezek.	Ez
+Eze.	Ez
+Ezk.	Ez
+Dan.	Dn
+Da.	Dn
+Dn.	Dn
+Hos.	Os
+Ho.	Os
+Joel	Jl
+Jl.	Jl
+Amos	Am
+Am.	Am
+Obad.	Ob
+Ob.	Ob
+Jonah	Jn
+Jnh.	Jn
+Jon.	Jn
+Mic.	Mq
+Mc.	Mq
+Nah.	Na
+Na.	Na
+Hab.	Hc
+Hb.	Hc
+Zeph.	Sf
+Zep.	Sf
+Zp.	Sf
+Hag.	Ag
+Hg.	Ag
+Zech.	Zc
+Zec.	Zc
+Zc.	Zc
+Mal.	Ml
+Ml.	Ml
+Matt.	Mt
+Mt.	Mt
+Mrk	Mc
+Mar	Mc
+Mk	Mc
+Mr	Mc
+Luk	Lc
+Lk	Lc
+Joh	Jo
+Jhn	Jo
+Jn	Jo
+Acts	At
+Act	At
+Ac	At
+Rom.	Rm
+Ro.	Rm
+Rm.	Rm
+1 Cor.	1Co
+1 Co.	1Co
+I Cor.	1Co
+I Co.	1Co
+1Cor.	1Co
+1Co.	1Co
+2 Cor.	2Co
+2 Co.	2Co
+II Cor.	2Co
+II Co.	2Co
+2Cor.	2Co
+2Co.	2Co
+Gal.	Gl
+Ga.	Gl
+Eph.	Ef
+Ephes.	Ef
+Phil.	Fp
+Php.	Fp
+Pp.	Fp
+Col.	Cl
+Co.	Cl
+1 Thess.	1Ts
+1 Thes.	1Ts
+1 Th.	1Ts
+I Thess.	1Ts
+I Thes.	1Ts
+I Th.	1Ts
+1Thess.	1Ts
+1Thes.	1Ts
+1Th.	1Ts
+1st Thess.	1Ts
+First Thess.	1Ts
+2 Thess.	2Ts
+2 Thes.	2Ts
+2 Th.	2Ts
+II Thess.	2Ts
+II Thes.	2Ts
+II Th.	2Ts
+2Thess.	2Ts
+2Thes.	2Ts
+2Th.	2Ts
+2nd Thess.	2Ts
+Second Thess.	2Ts
+1 Tim.	1Tm
+1 Ti.	1Tm
+I Tim.	1Tm
+I Ti.	1Tm
+1Tim.	1Tm
+1Ti.	1Tm
+1st Tim.	1Tm
+First Tim.	1Tm
+2 Tim.	2Tm
+2 Ti.	2Tm
+II Tim.	2Tm
+II Ti.	2Tm
+2Tim.	2Tm
+2Ti.	2Tm
+2nd Tim.	2Tm
+Second Tim.	2Tm
+Tit	Tt
+ti	Tt
+Philem.	Fm
+Phm.	Fm
+Pm.	Fm
+Heb.	Hb
+Jas	Tg
+Jm	Tg
+1 Pet.	1Pe
+1 Pe.	1Pe
+1 Pt.	1Pe
+1 P.	1Pe
+I Pet.	1Pe
+I Pt.	1Pe
+I Pe.	1Pe
+1Pet.	1Pe
+1Pe.	1Pe
+1Pt.	1Pe
+1P.	1Pe
+2 Pet.	2Pe
+2 Pe.	2Pe
+2 Pt.	2Pe
+2 P.	2Pe
+II Pet.	2Pe
+II Pt.	2Pe
+II Pe.	2Pe
+2Pet.	2Pe
+2Pe.	2Pe
+2Pt.	2Pe
+2P.	2Pe
+1 Jhn.	1Jo
+1 Jn.	1Jo
+1 J.	1Jo
+1Jhn.	1Jo
+1Joh.	1Jo
+1Jn.	1Jo
+1Jo.	1Jo
+1J.	1Jo
+I Jhn.	1Jo
+I Joh.	1Jo
+I Jn.	1Jo
+I Jo.	1Jo
+2 Jhn.	2Jo
+2 Jn.	2Jo
+2 J.	2Jo
+2Jhn.	2Jo
+2Joh.	2Jo
+2Jn.	2Jo
+2Jo.	2Jo
+2J.	2Jo
+II Jhn.	2Jo
+II Joh.	2Jo
+II Jn.	2Jo
+II Jo.	2Jo
+3 Jhn.	3Jo
+3 Jn.	3Jo
+3 J.	3Jo
+3Jhn.	3Jo
+3Joh.	3Jo
+3Jn.	3Jo
+3Jo.	3Jo
+3J.	3Jo
+III Jhn.	3Jo
+III Joh.	3Jo
+III Jn.	3Jo
+III Jo.	3Jo
+Jud.	Jd
+Jd.	Jd
+Rev	Ap
+Re	Ap
